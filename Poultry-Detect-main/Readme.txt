@@ -65,8 +65,8 @@ Model Details:
 
 Developer Info:
 ---------------
-👩‍💻 Developed by: NAGISETTI PRANATHI  
-🎓 Institution: Shri Vishnu Engineering College for Women  
+👩‍💻 Developed by: ANNAM SOMNATH  
+🎓 Institution: SIDDARTHA INSTITUTE OF SCIENCE AND TECHNOLOGY  
 📅 Year: 2025  
 🌐 Tech Stack: Python, Flask, TensorFlow, HTML, CSS
 
